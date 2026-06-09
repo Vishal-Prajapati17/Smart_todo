@@ -15,7 +15,7 @@ It processes context entries from sources like WhatsApp, emails, and notes to ge
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:-
 
 ### **Backend**
 - Django
