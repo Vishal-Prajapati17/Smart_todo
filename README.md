@@ -1,4 +1,4 @@
-# 📝 SmartAI ToDo WebApplication.
+# 📝 SmartAI ToDo WebApplication
 
 The Smart Todo List is an AI-powered task management web app that helps users efficiently organize daily tasks through intelligent automation. 
 It processes context entries from sources like WhatsApp, emails, and notes to generate smart task suggestions, set deadlines, assign priority scores, and categorize tasks automatically.
